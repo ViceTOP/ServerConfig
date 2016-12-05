@@ -2,18 +2,18 @@
 
 
 @hero = associative_array(
-            'name': '§cS§9u§ep§9e§9rg§cirl',
-            'class': 'supergirl',
-            'sig': 'ccxWzGt+poCGs/lNieBUMytCK2cQz0PYAbXz4i/xxIH9VSm/KOyJlsnXQLaCqMNPUCvEnLZKfz8L3wgGgZi3MmgddiQ1+8CGzYPEdfpTaSCSO4cbkG5FEp7eh6RRXHLzh3RdebYr9CNyPsn+ROufUFwJmKeIOE9TA1eAnc7iRZ5c++yk6+lyq90kCbk0yW9O5kNKgdvOTmQw3i6WbncGx4vX8FMIiZJgB0KMGKEbcllcaxUumJLD43FZVlkYl3iAb0T87XsifpuLpGqcsnZrjT0Lz/jdEEq9pzF4LgFTcNMUOlMhaIv1DsCyHNe0Re5c2Oo+ryZqoZQE/vxQ6t9RziiO+cX9SDSp2MKZTV67T3XNDIEcMOO4TpevK4jAZxul1g5/2AnVBHEtDkw5WVqFrl/Hjas70cHhL2kJpej1CsSaSnbLTalc5hrMOIruHlmR0Qe5Vc413jlA5gTcW8S2s3VIFhZEoVOgfYEfkYF9KVBZR+iNRXtQV65EAhsTiY1FkjGASYQWDkB+UXbgcx+bdfELmkHGZh+/3Wb0MohXT2Z8UXxmauWPGAG6/MsH1obWcSjszV6nfYi/ijZzyzcKCtyLzBKmujC4nQlrRrQnwUv0QlFf0mJJMrKGVynG00V4AyUikwH46zG6yDy2QDtRowgsr1K8+r2YpWkXXBYfgKk=',
-            'val': 'eyJ0aW1lc3RhbXAiOjE0NzIwNjU4Nzk2NDAsInByb2ZpbGVJZCI6Ijg3ZmIzYzZjNWZmNjRiZjZiMzI2OTkyYzYxMzdlYTEyIiwicHJvZmlsZU5hbWUiOiJUZWt0cm9uaWMiLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJtZXRhZGF0YSI6eyJtb2RlbCI6InNsaW0ifSwidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9iYWRiN2IzNWUyZWU3MGRhMDQwODA2OTNlZGE3YjY0Njc3YTg0NTQzZDZlZTcxMDgzMzEyMjE2YTNkNmViNjEifX19',
+            'name': '§4R§0e§4d L§ca§4nt§0e§4rn§c-§4S',
+            'class': 'redlanternsupergirl',
+            'sig': 'SFgaYyMrfnstoys4EJcKrGiqpcfbKBvMoDUOcNIHHINUQEkah4W0MqeCzXtmkG4zX5ixNRWFYOo7/M0iuMqoSn0nxuf/jOk8xdd5rLc8CHQewbtYfLWMUGmFL8OkOhhNTzVdLvhrvYj6IVcl+kefA64JCqS+xuDDth88PUV/OTU2M4fjXvuzDkG7ONL/C/QIXSiFKoymJ5h9RTMBhd0/8yLcjxjRRzaCheOmzub7NkrCXOBCM455lMcRsoU5V1Vpx5YrZybhqOjgg0Gjat66dJxqTDLYqNUWiS8QJdyeIuU0EK3ZvVS7VLSCkbRf8Z5CyZ4dLakyUHmcqUcyEhOVEZhYbmY6XGDcrsi4BA5N7Dm+NGNyv4e7x6nY5XlLv0Bqw24FYdvJol2QvpMk2RlMx4CBn0vDwOhEXQ6QneY6kAGeq60wkKLSFt7wzsxLv9FuXMyRzm/iKoNDtfugBtSNtkKMAhXScbPWjP3CoVfQKgHbWrtunNdXjXbjCGHOAywe6Z/r4oJhX7IR+0GTswLj8w9hCoelrr0xKUlqqIlijX/nIJz0c1LqF7xA1V/yLNkNQjaEkyEiLvE9DRITb+hlR73ns9X/sDrUazAeFp4iuLBWem4596dCOqUYMjMSPs2WCVkr06Bpg5q/b2M4YREoOMnRvR7cm6ELnY9V9JkR6sE=',
+            'val': 'eyJ0aW1lc3RhbXAiOjE0ODA4OTYwNTEyMjksInByb2ZpbGVJZCI6ImQ2ZTI3NjI4NjE2NDQ2Njc5M2RmZGY3ZDllMWNhMmZlIiwicHJvZmlsZU5hbWUiOiJMZUhvb2RpbmkiLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJtZXRhZGF0YSI6eyJtb2RlbCI6InNsaW0ifSwidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9mZDgzNGE2MGY5NTFmNzQ0NmNiNWQ3ODQwNGRkYmE0YTQ4Y2I2MmE0NDNiZjk5YTAyZWVmYmVlYzc3N2NjNyJ9fX0=',
             'trail': '',
-            'op': 'false',
-            'speech': "Time to save the world once again!",
+            'op': 'true',
+            'speech': "GHAAAAA!",
             'powers': array(
                 "/buff",
-                "/jump 0-8",
+                "/jump 0-9",
                 "/run 0-8",
-                "/haste 0-8",
+                "/haste 0-9",
                 "/fly"
             ),
             'buffs': array(
@@ -25,6 +25,9 @@
                 "/effect ". @plr ." 16 9999 1 true",
                 "/effect ". @plr ." 21 9999 19 true",
                 "/shot give ". @plr ." kryptonianlaservision",
-                "/give ". @plr ." minecraft:iron_boots 1 8:30 4:30 name:&4S&ep&4e&ce&ed&8s&0t&9e&1r_&4Boots"                
+                "/give ". @plr ." minecraft:iron_boots 1 8:30 4:30 name:&4S&ep&4e&ce&ed&8s&0t&9e&1r_&4Boots",
+                "/shot give ". @plr ." redbeam",
+                "/give ". @plr ." 95:14 64",
+                "/give ". @plr ." minecraft:red_flower 1 20:2 16:155 name:&4R&0e&4d_L&ca&4nt&0e&4rn_Ring"
             )
         )
