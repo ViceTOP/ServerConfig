@@ -3,13 +3,13 @@
 
 
 @hero = associative_array(
-            'name': '§6M§5r§6. §5M§6x§5y§6z§5p§6t§5l§6k',
-            'class': 'mrmxyzptlk',
+            'name': '§6M§5s§6. §5G§6s§5p§6t§5l§6s§5n§6z',
+            'class': 'msgsptlsnz',
             'sig': 'villager',
             'val': 'baby',
             'trail': '',
             'op': 'true',
-            'speech': "Let's play a game.",
+            'speech': "Ah... you're so boring.",
             'powers': array(
                 "/buff",
                 "/carryplayer",
@@ -18,7 +18,7 @@
                 "/fly",
                 "/tp",
                 "/confuse <player>",
-                "/magicmrmxyzptlksmortal <playerName>"
+                "/magicmsgsptlsnzmortal <playerName>"
             ),
             'buffs': array()
         )
