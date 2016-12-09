@@ -9,7 +9,7 @@
             'val': 'baby',
             'trail': '',
             'op': 'true',
-            'speech': "Let's play a game.",
+            'speech': "Ah... you're so boring.",
             'powers': array(
                 "/buff",
                 "/carryplayer",
@@ -18,7 +18,7 @@
                 "/fly",
                 "/tp",
                 "/confuse <player>",
-                "/magicmrmxyzptlksmortal <playerName>"
+                "/magicmsgsptlsnzmortal <playerName>"
             ),
             'buffs': array()
         )
