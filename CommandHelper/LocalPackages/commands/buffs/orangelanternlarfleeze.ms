@@ -26,5 +26,5 @@
                 "/shot give ". @plr ." bluebeam",
                 "/give ". @plr ." 95:1 64",
                 "/give ". @plr ." minecraft:dye:14 1 20:2 16:155 name:&6L&0a&6rfleeze's_Ring"                
-            )
+            )    
         )
